@@ -169,7 +169,7 @@ O modelo retorna um valor numérico correspondente à **previsão de colesterol 
 📘 Estudante de Análise e Desenvolvimento de Sistemas — Unimar  
 💼 Buscando desenvolvimento como Dev Full Stack ou Analista de Dados  
 
-📫 Contato: [LinkedIn](www.linkedin.com/in/guilherme-vicente-figueira-497b222a3) | [GitHub](https://github.com/GuilhermeVicenteFigueira)
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/guilherme-vicente-figueira-497b222a3/) | [GitHub](https://github.com/GuilhermeVicenteFigueira)
 
 ---
 
