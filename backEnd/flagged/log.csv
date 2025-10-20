@@ -1,0 +1,7 @@
+grupo_sanguineo,fumante,nive_atividade_fisica,idade,peso,altura,output,flag,username,timestamp
+AB,false,Alto,20,60,186,0,,,2025-10-20 15:11:43.562096
+,true,,20,46,150,0,,,2025-10-20 15:12:09.526098
+AB,true,Alto,31,51.9,192,0,,,2025-10-20 15:12:20.380764
+AB,false,Baixo,20,81,180,0,,,2025-10-20 15:15:21.926266
+AB,true,Baixo,20,81,180,0,,,2025-10-20 15:19:33.775478
+AB,false,Baixo,20,70.7,186,158.85162963972982,,,2025-10-20 15:26:15.692673
